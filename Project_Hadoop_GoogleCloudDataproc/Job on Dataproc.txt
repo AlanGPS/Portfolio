@@ -1,0 +1,13 @@
+org.apache.spark.examples.SparkPi
+
+file:///usr/lib/spark/examples/jars/spark-examples.jar
+
+argumentos: 1000
+
+--------------------------
+
+gs://desafio-dataproc-dio-alan/
+
+gsutil cp contador.py livro.txt gs://desafio-dataproc-dio-alan/
+
+gs://desafio-dataproc-dio-alan/contador.py
